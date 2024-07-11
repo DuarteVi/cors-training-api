@@ -20,7 +20,7 @@ Open [http://localhost:7080](http://localhost:7080) with your browser to see the
 Switch comments on declarations of `nextConfig` in `./next.config.mjs`.
 
 ## Web site
-[https://cors-training-api.vercel.app](https://cors-training-api.vercel.app)
+[https://cors-training-api.vercel.app](https://cors-training-api.vercel.app) 
 
 
 ## Author
